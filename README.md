@@ -33,4 +33,4 @@
 
 [лаба 7.1.docx](https://github.com/user-attachments/files/32078961/7.1.docx)
 
-
+### [User Stories](https://github.com/chipuchka/Case-/blob/5b67c71bd88132ee1715f9eefad655264bae0704/User%20Stories.md)
