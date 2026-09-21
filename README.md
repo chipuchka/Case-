@@ -36,3 +36,5 @@
 ### [User Stories](https://github.com/chipuchka/Case-/blob/5b67c71bd88132ee1715f9eefad655264bae0704/User%20Stories.md)
 
 ### [BPMN](https://github.com/chipuchka/Case-/blob/8696de95f3eceb87df673a2596caf87d7cff29b2/diagram.png)
+
+![2](https://github.com/chipuchka/Case-/blob/fb04864b26b2ddaad4125c80c57c08b21b75113a/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA2.png)
