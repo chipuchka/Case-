@@ -382,4 +382,31 @@ Responses
 
 ```
 
+### POST/reviews (Оставить отзыв)
+Request body
+```jsonl
+{
+  "trip_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "booking_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "rating": 1,
+  "category": "flight",
+  "comment": "string"
+}
+```
+Responses
+201
+```jsonl
+{
+  "review_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "trip_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "booking_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "rating": 1,
+  "category": "flight",
+  "comment": "string",
+  "moderated": true,
+  "moderation_status": "pending",
+  "created_at": "2026-09-21T14:12:38.775Z"
+}
+```
 
