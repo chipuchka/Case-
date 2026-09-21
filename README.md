@@ -34,3 +34,5 @@
 [лаба 7.1.docx](https://github.com/user-attachments/files/32078961/7.1.docx)
 
 ### [User Stories](https://github.com/chipuchka/Case-/blob/5b67c71bd88132ee1715f9eefad655264bae0704/User%20Stories.md)
+
+### [BPMN](https://github.com/chipuchka/Case-/blob/8696de95f3eceb87df673a2596caf87d7cff29b2/diagram.png)
