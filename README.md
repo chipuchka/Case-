@@ -38,3 +38,4 @@
 ### [BPMN](https://github.com/chipuchka/Case-/blob/8696de95f3eceb87df673a2596caf87d7cff29b2/diagram.png)
 
 ![2](https://github.com/chipuchka/Case-/blob/fb04864b26b2ddaad4125c80c57c08b21b75113a/%D0%A0%D0%B8%D1%81%D1%83%D0%BD%D0%BE%D0%BA2.png)
+![4](https://github.com/chipuchka/Case-/blob/6d844f3dae7587a9f6c78f3cc297d4840b7769c5/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-09-21%20224325.png)
